@@ -1,0 +1,97 @@
+﻿@model DALco.drug
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<style>
+    body {
+        background-color: #97bbc7;
+        margin: 0;
+    }
+
+    .pos {
+        position: absolute;
+        margin-left: 600px;
+        float: right;
+        padding: 12px 50px;
+        width: 600px;
+        border-radius: 40%;
+    }
+
+    #myVideo {
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        min-width: 100%;
+        min-height: 100%;
+        z-index: -1;
+    }
+
+    .control-label {
+        color: #f70b00;
+        font: bolder;
+        font-size: x-large
+    }
+</style>
+
+<div class="row  justify-content-center">
+    <div class="col-md-4">
+        <form asp-action="create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="trade_name" class="control-label"></label>
+                <input asp-for="trade_name" class="form-control" />
+                <span asp-validation-for="trade_name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Scientific_name" class="control-label"></label>
+                <input asp-for="Scientific_name" class="form-control" />
+                <span asp-validation-for="Scientific_name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="cost" class="control-label"></label>
+                <input asp-for="cost" class="form-control" />
+                <span asp-validation-for="cost" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="medicine_caliber" class="control-label"></label>
+                <input asp-for="medicine_caliber" class="form-control" />
+                <span asp-validation-for="medicine_caliber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="package_size" class="control-label"></label>
+                <input asp-for="package_size" class="form-control" />
+                <span asp-validation-for="package_size" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="The_number_of_medicine" class="control-label"></label>
+                <input asp-for="The_number_of_medicine" class="form-control" />
+                <span asp-validation-for="The_number_of_medicine" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="description" class="control-label"></label>
+                <textarea asp-for="description" class="form-control"></textarea>
+                <span asp-validation-for="description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="how_to_use" class="control-label"></label>
+                <textarea asp-for="how_to_use" class="form-control"></textarea>
+                <span asp-validation-for="how_to_use" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />      
+                <a asp-action="Drug">Back to List</a>
+
+            </div>
+        </form>
+    </div>
+</div>
+<video autoplay muted loop id="myVideo">
+    <source src="~/vedio/v13.mp4" type="video/mp4">
+
+</video>
+
+<script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+

@@ -1,0 +1,60 @@
+C:\Users\atef\Desktop\jk\DALco\bin\Debug\net5.0\DALco.deps.json
+C:\Users\atef\Desktop\jk\DALco\bin\Debug\net5.0\DALco.runtimeconfig.json
+C:\Users\atef\Desktop\jk\DALco\bin\Debug\net5.0\DALco.runtimeconfig.dev.json
+C:\Users\atef\Desktop\jk\DALco\bin\Debug\net5.0\DALco.dll
+C:\Users\atef\Desktop\jk\DALco\bin\Debug\net5.0\ref\DALco.dll
+C:\Users\atef\Desktop\jk\DALco\bin\Debug\net5.0\DALco.pdb
+C:\Users\atef\Desktop\jk\DALco\obj\Debug\net5.0\DALco.csproj.AssemblyReference.cache
+C:\Users\atef\Desktop\jk\DALco\obj\Debug\net5.0\DALco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atef\Desktop\jk\DALco\obj\Debug\net5.0\DALco.AssemblyInfoInputs.cache
+C:\Users\atef\Desktop\jk\DALco\obj\Debug\net5.0\DALco.AssemblyInfo.cs
+C:\Users\atef\Desktop\jk\DALco\obj\Debug\net5.0\DALco.csproj.CoreCompileInputs.cache
+C:\Users\atef\Desktop\jk\DALco\obj\Debug\net5.0\DALco.dll
+C:\Users\atef\Desktop\jk\DALco\obj\Debug\net5.0\ref\DALco.dll
+C:\Users\atef\Desktop\jk\DALco\obj\Debug\net5.0\DALco.pdb
+C:\Users\atef\Desktop\jk\DALco\obj\Debug\net5.0\DALco.genruntimeconfig.cache
+C:\Users\Jadara\Desktop\jk\DALco\bin\Debug\net5.0\DALco.deps.json
+C:\Users\Jadara\Desktop\jk\DALco\bin\Debug\net5.0\DALco.runtimeconfig.json
+C:\Users\Jadara\Desktop\jk\DALco\bin\Debug\net5.0\DALco.runtimeconfig.dev.json
+C:\Users\Jadara\Desktop\jk\DALco\bin\Debug\net5.0\DALco.dll
+C:\Users\Jadara\Desktop\jk\DALco\bin\Debug\net5.0\ref\DALco.dll
+C:\Users\Jadara\Desktop\jk\DALco\bin\Debug\net5.0\DALco.pdb
+C:\Users\Jadara\Desktop\jk\DALco\obj\Debug\net5.0\DALco.csproj.AssemblyReference.cache
+C:\Users\Jadara\Desktop\jk\DALco\obj\Debug\net5.0\DALco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jadara\Desktop\jk\DALco\obj\Debug\net5.0\DALco.AssemblyInfoInputs.cache
+C:\Users\Jadara\Desktop\jk\DALco\obj\Debug\net5.0\DALco.AssemblyInfo.cs
+C:\Users\Jadara\Desktop\jk\DALco\obj\Debug\net5.0\DALco.csproj.CoreCompileInputs.cache
+C:\Users\Jadara\Desktop\jk\DALco\obj\Debug\net5.0\DALco.dll
+C:\Users\Jadara\Desktop\jk\DALco\obj\Debug\net5.0\ref\DALco.dll
+C:\Users\Jadara\Desktop\jk\DALco\obj\Debug\net5.0\DALco.pdb
+C:\Users\Jadara\Desktop\jk\DALco\obj\Debug\net5.0\DALco.genruntimeconfig.cache
+C:\Users\atef\Desktop\New folder (3)\jk\DALco\bin\Debug\net5.0\DALco.deps.json
+C:\Users\atef\Desktop\New folder (3)\jk\DALco\bin\Debug\net5.0\DALco.runtimeconfig.json
+C:\Users\atef\Desktop\New folder (3)\jk\DALco\bin\Debug\net5.0\DALco.runtimeconfig.dev.json
+C:\Users\atef\Desktop\New folder (3)\jk\DALco\bin\Debug\net5.0\DALco.dll
+C:\Users\atef\Desktop\New folder (3)\jk\DALco\bin\Debug\net5.0\ref\DALco.dll
+C:\Users\atef\Desktop\New folder (3)\jk\DALco\bin\Debug\net5.0\DALco.pdb
+C:\Users\atef\Desktop\New folder (3)\jk\DALco\obj\Debug\net5.0\DALco.csproj.AssemblyReference.cache
+C:\Users\atef\Desktop\New folder (3)\jk\DALco\obj\Debug\net5.0\DALco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atef\Desktop\New folder (3)\jk\DALco\obj\Debug\net5.0\DALco.AssemblyInfoInputs.cache
+C:\Users\atef\Desktop\New folder (3)\jk\DALco\obj\Debug\net5.0\DALco.AssemblyInfo.cs
+C:\Users\atef\Desktop\New folder (3)\jk\DALco\obj\Debug\net5.0\DALco.csproj.CoreCompileInputs.cache
+C:\Users\atef\Desktop\New folder (3)\jk\DALco\obj\Debug\net5.0\DALco.dll
+C:\Users\atef\Desktop\New folder (3)\jk\DALco\obj\Debug\net5.0\ref\DALco.dll
+C:\Users\atef\Desktop\New folder (3)\jk\DALco\obj\Debug\net5.0\DALco.pdb
+C:\Users\atef\Desktop\New folder (3)\jk\DALco\obj\Debug\net5.0\DALco.genruntimeconfig.cache
+C:\Users\atef\Desktop\project code\New folder (3)\jk\DALco\bin\Debug\net5.0\DALco.deps.json
+C:\Users\atef\Desktop\project code\New folder (3)\jk\DALco\bin\Debug\net5.0\DALco.runtimeconfig.json
+C:\Users\atef\Desktop\project code\New folder (3)\jk\DALco\bin\Debug\net5.0\DALco.runtimeconfig.dev.json
+C:\Users\atef\Desktop\project code\New folder (3)\jk\DALco\bin\Debug\net5.0\DALco.dll
+C:\Users\atef\Desktop\project code\New folder (3)\jk\DALco\bin\Debug\net5.0\ref\DALco.dll
+C:\Users\atef\Desktop\project code\New folder (3)\jk\DALco\bin\Debug\net5.0\DALco.pdb
+C:\Users\atef\Desktop\project code\New folder (3)\jk\DALco\obj\Debug\net5.0\DALco.csproj.AssemblyReference.cache
+C:\Users\atef\Desktop\project code\New folder (3)\jk\DALco\obj\Debug\net5.0\DALco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atef\Desktop\project code\New folder (3)\jk\DALco\obj\Debug\net5.0\DALco.AssemblyInfoInputs.cache
+C:\Users\atef\Desktop\project code\New folder (3)\jk\DALco\obj\Debug\net5.0\DALco.AssemblyInfo.cs
+C:\Users\atef\Desktop\project code\New folder (3)\jk\DALco\obj\Debug\net5.0\DALco.csproj.CoreCompileInputs.cache
+C:\Users\atef\Desktop\project code\New folder (3)\jk\DALco\obj\Debug\net5.0\DALco.dll
+C:\Users\atef\Desktop\project code\New folder (3)\jk\DALco\obj\Debug\net5.0\ref\DALco.dll
+C:\Users\atef\Desktop\project code\New folder (3)\jk\DALco\obj\Debug\net5.0\DALco.pdb
+C:\Users\atef\Desktop\project code\New folder (3)\jk\DALco\obj\Debug\net5.0\DALco.genruntimeconfig.cache

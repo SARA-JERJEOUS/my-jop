@@ -1,0 +1,39 @@
+﻿<div class="row">
+    <div class="col-6">
+        <select id="disList"  asp-items="@ViewBag.Disease" class="form-control" >
+
+        </select>
+    </div>
+    <div class="col-6" style="height:450px;">
+        <select id="drugList" asp-items="@ViewBag.Drugs" multiple class="form-control h-100">
+        </select>
+    </div>
+</div>
+<div>
+    <span class="btn btn bg-success" onclick="save()">Save</span>
+</div>
+
+<script>
+    function save() {
+        var drugs = $("#drugList").val();
+
+        var dis = $("#disList").val();
+
+         $.post({
+             url: '@Url.Action("SaveDrugToDis")',
+             data: { disId: dis, drugsIds: drugs },
+             success: function (result) {
+                 
+                if (result) {
+                    $("#drugList").prop('selectedIndex', -1);
+                 //   $("#disList").prop('selectedIndex', -1);
+                    alert("ok");
+                }
+                else {
+                    alert("not ok");
+                }
+            }
+        })
+
+    }
+</script>

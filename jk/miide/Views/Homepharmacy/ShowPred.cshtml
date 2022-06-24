@@ -1,0 +1,41 @@
+﻿@model miide.Models.PredictionModel
+
+<a href="@Url.Action("Prediction")" class="btn btn-outline-primary">Back</a>
+<h1>
+  Disease:  @Model.DiseaseName
+</h1>
+
+
+
+<div>
+    Symptomes:
+    <ul>
+        @foreach (var item in Model.SymptomsList)
+        {
+            <li>
+                @item                
+            </li>
+        }
+    </ul>
+
+</div>
+
+
+<div>
+    Drug :
+    <ul style="font:400px">
+        @foreach (var item in Model.DrugsList)
+        {
+            <li >
+                @item.trade_name
+                <span class=" text-muted">@item.Scientific_name</span>
+            </li>
+              <li><span>Description:</span>@item.description</li>
+            <li><span>medicine_caliber:</span>@item.medicine_caliber</li>
+            <li><span>how_to_use:</span>@item.how_to_use</li>
+            <li><span>cost:</span>@item.cost</li>
+
+        }
+    </ul>
+
+</div>

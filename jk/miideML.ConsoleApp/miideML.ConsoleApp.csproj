@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="IronPython" Version="2.7.12" />
+    <PackageReference Include="Microsoft.ML" Version="1.5.0-preview2" />
+    <PackageReference Include="python" Version="3.10.4" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\miideML.Model\miideML.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectCapability Include="ModelBuilderGenerated" />
+  </ItemGroup>
+</Project>

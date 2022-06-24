@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "miide", "miide\miide.csproj", "{C832F2C0-DDCF-41B4-AC36-E39A72A52E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALco", "DALco\DALco.csproj", "{FADDB786-13B9-4353-965A-EC0B42E71E4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consolee", "consolee\consolee.csproj", "{09400DB6-A9F1-4A76-8CE2-92D7297F1572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C832F2C0-DDCF-41B4-AC36-E39A72A52E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C832F2C0-DDCF-41B4-AC36-E39A72A52E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C832F2C0-DDCF-41B4-AC36-E39A72A52E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C832F2C0-DDCF-41B4-AC36-E39A72A52E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FADDB786-13B9-4353-965A-EC0B42E71E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADDB786-13B9-4353-965A-EC0B42E71E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADDB786-13B9-4353-965A-EC0B42E71E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADDB786-13B9-4353-965A-EC0B42E71E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09400DB6-A9F1-4A76-8CE2-92D7297F1572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09400DB6-A9F1-4A76-8CE2-92D7297F1572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09400DB6-A9F1-4A76-8CE2-92D7297F1572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09400DB6-A9F1-4A76-8CE2-92D7297F1572}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47E24F22-621C-4E3E-80A0-296A62D5038F}
+	EndGlobalSection
+EndGlobal
